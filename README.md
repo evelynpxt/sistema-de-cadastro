@@ -4,6 +4,6 @@ para rodar esse programa na sua maquina por favor digite:
 
 ....
 
-nps install/react
+node app.js
 
 ....
